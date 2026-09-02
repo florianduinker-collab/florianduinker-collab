@@ -1,16 +1,13 @@
-## Hi there 👋
+<img src="ascii-portrait.jpg" width="380" align="left" alt="ASCII portret van Florian" />
 
-<!--
-**florianduinker-collab/florianduinker-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, ik ben Florian 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 19 jaar oud, vwo 6 (gymnasium) aan het SGA
+- - 📍 Woonachtig in Arnhem, Nederland
+  - - 🔭 Bezig met mijn profielwerkstuk en aan het oriënteren op een technische universiteit (TU Delft / TU/e)
+    - - ⚙️ Hobby's: elektronica, 3D-printen en programmeren
+      - - 🏋️ Fitness — regelmatig in de gym, bezig met bench press
+        - - ⚽ Voetbal en gamen in mijn vrije tijd
+         
+          - <br clear="left"/>
+          
