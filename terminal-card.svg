@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="611" height="420" viewBox="0 0 611 420">
+<rect width="611" height="420" rx="10" fill="#0d1117"/>
+<style>text{font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size:14px;}</style>
+<text x="20" y="34" fill="#e6edf3" font-weight="bold">florian@sga</text>
+<text x="20" y="54" fill="#6e7681">-----------</text>
+<text x="20" y="74" fill="#c9d1d9">OS: <tspan fill="#6e7681">............................</tspan> <tspan fill="#f2a541">Windows 11, Android</tspan></text>
+<text x="20" y="94" fill="#c9d1d9">Uptime: <tspan fill="#6e7681">........................</tspan> <tspan fill="#f2a541">19 years</tspan></text>
+<text x="20" y="114" fill="#c9d1d9">Host: <tspan fill="#6e7681">..........................</tspan> <tspan fill="#f2a541">SGA — vwo 6 (gymnasium)</tspan></text>
+<text x="20" y="134" fill="#c9d1d9">Kernel: <tspan fill="#6e7681">........................</tspan> <tspan fill="#f2a541">Profielwerkstuk in progress</tspan></text>
+<text x="20" y="154" fill="#c9d1d9">IDE: <tspan fill="#6e7681">...........................</tspan> <tspan fill="#f2a541">VS Code</tspan></text>
+<text x="20" y="194" fill="#c9d1d9">Languages.Programming: <tspan fill="#6e7681">.........</tspan> <tspan fill="#f2a541">Python, JavaScript, HTML/CSS</tspan></text>
+<text x="20" y="214" fill="#c9d1d9">Focus: <tspan fill="#6e7681">.........................</tspan> <tspan fill="#f2a541">Studiekeuze: TU Delft / TU/e, leren</tspan></text>
+<text x="20" y="234" fill="#f2a541">programmeren, mezelf verbeteren.</text>
+<text x="20" y="274" fill="#c9d1d9">Hobbies.Sport: <tspan fill="#6e7681">.................</tspan> <tspan fill="#f2a541">Gym</tspan></text>
+<text x="20" y="294" fill="#c9d1d9">Hobbies.Hardware: <tspan fill="#6e7681">..............</tspan> <tspan fill="#f2a541">Elektronica, 3D-printen</tspan></text>
+<text x="20" y="314" fill="#c9d1d9">Hobbies.Software: <tspan fill="#6e7681">..............</tspan> <tspan fill="#f2a541">LLM models, AI software engineering</tspan></text>
+<text x="20" y="354" fill="#e6edf3" font-weight="bold">- Contact -</text>
+<text x="20" y="374" fill="#6e7681">-----------</text>
+<text x="20" y="394" fill="#c9d1d9">Location: <tspan fill="#6e7681">......................</tspan> <tspan fill="#f2a541">Arnhem, Nederland</tspan></text>
+</svg>
