@@ -10,11 +10,13 @@ Kernel: ........................ Profielwerkstuk in progress
 IDE: ........................... VS Code
 
 Languages.Programming: ......... Python, JavaScript, HTML/CSS
-Focus: ......................... Studiekeuze: TU Delft / TU/e
+Focus: ......................... Studiekeuze: TU Delft / TU/e, leren programmeren, mezelf verbeteren.
 
-Hobbies.Sport: ................. Gym (bench press), voetbal
+Hobbies.Sport: ................. Gym, 
 Hobbies.Hardware: .............. Elektronica, 3D-printen
-Hobbies.Other: ................. Gamen
+Hobbies.Other: .................
+Hobbies.software:............... LLM models, AI software engineering. 
+
 
 - Contact -
 -----------
