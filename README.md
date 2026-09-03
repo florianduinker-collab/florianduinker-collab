@@ -1,26 +1,24 @@
 <img src="ascii-portrait.jpg" width="380" align="left" alt="ASCII portret van Florian" />
 
-```
-florian@sga
+```ansi
+[1mflorian@sga[0m
 -----------
-OS: ............................ Windows 11, Android
-Uptime: ........................ 19 years
-Host: .......................... SGA — vwo 6 (gymnasium)
-Kernel: ........................ Profielwerkstuk in progress
-IDE: ........................... VS Code
+OS: ............................ [38;5;208mWindows 11, Android[0m
+Uptime: ........................ [38;5;208m19 years[0m
+Host: .......................... [38;5;208mSGA — vwo 6 (gymnasium)[0m
+Kernel: ........................ [38;5;208mProfielwerkstuk in progress[0m
+IDE: ........................... [38;5;208mVS Code[0m
 
-Languages.Programming: ......... Python, JavaScript, HTML/CSS
-Focus: ......................... Studiekeuze: TU Delft / TU/e, leren programmeren, mezelf verbeteren.
+Languages.Programming: ......... [38;5;208mPython, JavaScript, HTML/CSS[0m
+Focus: ......................... [38;5;208mStudiekeuze: TU Delft / TU/e, leren programmeren, mezelf verbeteren.[0m
 
-Hobbies.Sport: ................. Gym, 
-Hobbies.Hardware: .............. Elektronica, 3D-printen
-Hobbies.Other: .................
-Hobbies.software:............... LLM models, AI software engineering. 
+Hobbies.Sport: ................. [38;5;208mGym[0m
+Hobbies.Hardware: .............. [38;5;208mElektronica, 3D-printen[0m
+Hobbies.Software: .............. [38;5;208mLLM models, AI software engineering[0m
 
-
-- Contact -
+[1m- Contact -[0m
 -----------
-Location: ...................... Arnhem, Nederland
+Location: ...................... [38;5;208mArnhem, Nederland[0m
 ```
 
 <br clear="left"/>
